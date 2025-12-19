@@ -1,7 +1,7 @@
 public class Trip {
-    private Passenger passenger;
-    private Driver driver;
-    private Car car;
+    private final Passenger passenger;
+    private final Driver driver;
+    private final Car car;
     private boolean accepted;
     private boolean started;
     private boolean finished;

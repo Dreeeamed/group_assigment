@@ -1,5 +1,5 @@
 public class Driver {
-    private String name;
+    private final String name;
     private double averageRating;
     private int ratingCount;
 

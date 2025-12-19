@@ -1,3 +1,3 @@
-Merei Kazieva
+Merey Kaziyeva
 Aman Islami
 Bolatbek Bolat

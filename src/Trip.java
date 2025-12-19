@@ -41,4 +41,3 @@ public class Trip {
         System.out.println("Trip finished. " + passenger.getName() + " arrived safely!");
     }
 }
-//aaaa

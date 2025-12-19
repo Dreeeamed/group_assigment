@@ -14,7 +14,7 @@ public class Trip {
         this.started = false;
         this.finished = false;
     }
-
+//da
     public Passenger getPassenger() {
         return passenger;
     }
